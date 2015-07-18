@@ -1,0 +1,27 @@
+{
+ "template_file": "_resources/_template.html",
+
+ "menu_desc":[
+   {
+     "html_start":"<div id=\"ck_menu_0\"><div style=\"padding:3px;margin-top:6px;\">",
+     "html_end":"</div></div>",
+
+     "html_on_start":"<span id=\"ck_menu_text_0_selected\">",
+     "html_on_end":"</span>",
+     "html_off_start":"<span id=\"ck_menu_text_0\">",
+     "html_off_end":"</span>",
+
+     "nodes":[
+       {"id":"index", "name":"Home", "link":"$#wfe_url_prefix_page#$index"},
+       {"id":"services", "name":"Services","link":"$#wfe_url_prefix_page#$services"},
+       {"id":"education", "name":"Education","link":"$#wfe_url_prefix_page#$education"},
+       {"id":"about", "name":"About","link":"$#wfe_url_prefix_page#$about"},
+       {"id":"contacts", "name":"Contacts","link":"$#wfe_url_prefix_page#$contacts"}
+     ]
+   }
+ ],
+
+ "global_keywords":"adapt workshop, self-tuning, adaptation, performance, energy, size, cost, reproducible experimentation, big data, predictive analytics",
+
+ "share":" <!-- AddToAny BEGIN -->\n <div class=\"a2a_kit a2a_default_style\" style=\"margin:0 auto;font-size:12px;width:60px;\">\n  <a class=\"a2a_dd\" href=\"https://www.addtoany.com/share_save\">Share</a>\n </div>\n <script type=\"text/javascript\" src=\"//static.addtoany.com/menu/page.js\"></script>\n <!-- AddToAny END -->\n"
+}
