@@ -1,7 +1,7 @@
 # ck-web-adapt-workshop
-ADAPT workshop website, powered by CK
+CK repository for ADAPT workshop website, powered by CK.
 
-CK web front-end templates, styles and images
+Includes CK web front-end templates, styles and images.
 
 Usage:
 
@@ -13,4 +13,4 @@ Usage:
 
  > Open web page: http://localhost:3344/?template=adapt-workshop&page=index
 
- That's all
+ That's all.

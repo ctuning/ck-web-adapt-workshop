@@ -14,8 +14,9 @@
      "nodes":[
        {"id":"index", "name":"Home", "link":"$#wfe_url_prefix_page#$index"},
        {"id":"cfp", "name":"CFP","link":"$#wfe_url_prefix_page#$cfp"},
+       {"id":"submission", "name":"Submission","link":"$#wfe_url_prefix_page#$submission"},
        {"id":"reproducibility", "name":"Reproducibility","link":"$#wfe_url_prefix_page#$reproducibility"},
-       {"id":"past", "name":"Past workshops","link":"$#wfe_url_prefix_page#$past"},
+       {"id":"prior", "name":"Prior workshops","link":"$#wfe_url_prefix_page#$prior"},
        {"id":"committees", "name":"Committees","link":"$#wfe_url_prefix_page#$committees"}
      ]
    }
