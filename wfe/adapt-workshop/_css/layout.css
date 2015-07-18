@@ -16,19 +16,18 @@ a {text-decoration: none}
 /* background-color:#00002F; */
  width:100%; 
  padding:0px;
- height:56px;
- color:#0f6fff;
+ height:76px;
+ color:#0f6faf;
  text-align:center;
- font-size:30px;
+ font-size:29px;
  background-color: #ffffff;
 }
 
 #ck_top_small
 {
- height:10px;
- color:#0f6fff;
+ color:#0f6faf;
  text-align:center;
- font-size:10px;
+ font-size:13px;
 }
 
 #ck_middle
@@ -148,9 +147,9 @@ a {text-decoration: none}
 
 #ck_note1
 {
- background-color:#0000ff;
+ background-color:#0f6faf;
  width:100%; 
- height:20px;
+ height:22px;
  color:#ffffff;
  text-align:center;
  font-size:13px;
@@ -159,6 +158,11 @@ a {text-decoration: none}
  border-bottom: 1px solid #cfcfcf;
  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
+
+#ck_note1 a:link { color: #ff9f0f; }
+#ck_note1 a:visited { color: #ffffff; }
+#ck_note1 a:hover { color: #af0000; }
+#ck_note1 a:active { color: #ffffff; }
 
 #ck_note2
 {
