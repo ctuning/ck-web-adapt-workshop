@@ -16,7 +16,7 @@ a {text-decoration: none}
 /* background-color:#00002F; */
  width:100%; 
  padding:0px;
- height:76px;
+ height:56px;
  color:#0f6fff;
  text-align:center;
  font-size:30px;
@@ -148,16 +148,16 @@ a {text-decoration: none}
 
 #ck_note1
 {
- background-color:#f5f5f5;
+ background-color:#0000ff;
  width:100%; 
- height:94px;
- color:#5f0000;
+ height:20px;
+ color:#ffffff;
  text-align:center;
- font-size:16px;
+ font-size:13px;
  padding:0px;
  margin:0px;
  border-bottom: 1px solid #cfcfcf;
- font-family:times;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 
 #ck_note2

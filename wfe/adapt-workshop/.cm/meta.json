@@ -13,10 +13,10 @@
 
      "nodes":[
        {"id":"index", "name":"Home", "link":"$#wfe_url_prefix_page#$index"},
-       {"id":"services", "name":"Services","link":"$#wfe_url_prefix_page#$services"},
-       {"id":"education", "name":"Education","link":"$#wfe_url_prefix_page#$education"},
-       {"id":"about", "name":"About","link":"$#wfe_url_prefix_page#$about"},
-       {"id":"contacts", "name":"Contacts","link":"$#wfe_url_prefix_page#$contacts"}
+       {"id":"cfp", "name":"CFP","link":"$#wfe_url_prefix_page#$cfp"},
+       {"id":"reproducibility", "name":"Reproducibility","link":"$#wfe_url_prefix_page#$reproducibility"},
+       {"id":"past", "name":"Past workshops","link":"$#wfe_url_prefix_page#$past"},
+       {"id":"committees", "name":"Committees","link":"$#wfe_url_prefix_page#$committees"}
      ]
    }
  ],
