@@ -33,7 +33,7 @@
   <!--------------------------------------- slogan --------------------------------------->
 
   <div id="ck_note1">
-   January 18, 2016, Prague, Czech Republic ( co-located with <a href="https://www.hipeac.net/2016/prague"><b>HiPEAC 2016</b></a> )
+   January 18, 2016, Prague, Czech Republic ( co-located with <a href="https://www.hipeac.net/2016/prague">HiPEAC 2016</a> )
   </div>
 
   <!--------------------------------------- menu --------------------------------------->
@@ -44,50 +44,7 @@
   <center>
    <div id="ck_box_with_shadow">
 
-   <table width="100%" border="0" cellpadding="1" cellspacing="1">
-    <tbody>
-     <tr>
-
-      <!-------------------------------------------------------------------------------------------------------------->
-      <td valign="top">
-
-       $#ck_template_middle#$
-
-      </td>
-
-      <!-------------------------------------------------------------------------------------------------------------->
-      <td valign="top">
-       <div style="min-width:320px">
-        <div style="float:right;width:300px;">
-         <center>
-
-         <div id="ck_box_with_shadow1">
-          <center><b>Important dates:</b><br></center>
-
-          Paper submission: <b><i>TBA</i></b><br>
-          Notification: <b><i>TBA</i></b><br>
-          Final version: <b><i>TBA</i></b><br>
-          Early fees registration: <b><i>TBA</i></b><br>
-          Workshop: <b><i>18 January 2016</i></b><br>
-          <br>
-
-          <center><b>Organizers:</b><br></center>
-
-          * <a href="http://fursin.net/resarch.html">Grigori Fursin</a>, cTuning foundation<br>
-          * <a href="http://homepages.inf.ed.ac.uk/cdubach">Christophe Dubach</a>, U. of Edinburgh<br>
-
-         </div>
-
-         <div id="ck_entries_space4"></div>
-         <a class="twitter-timeline"  href="https://twitter.com/adapt_workshop" data-widget-id="622340123376660480">Tweets by @adapt_workshop</a>      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                    
-
-        </div>
-       </div>
-      </td>
-
-     </tr>
-    </tbody>
-   </table>
+    $#ck_template_middle#$
 
    </div>
   </center>
