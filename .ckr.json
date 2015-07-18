@@ -7,4 +7,6 @@
   }, 
   "data_alias": "ck-web-adapt-workshop", 
   "data_uoa": "ck-web-adapt-workshop"
+  "repo_deps":[{"repo_uoa":"ck-web"}]
+
 }
