@@ -1,5 +1,5 @@
-# ck-web-adapt-workshop
-CK repository for ADAPT workshop website, powered by CK.
+CK repository for ADAPT workshop website
+========================================
 
 Includes CK web front-end templates, styles and images.
 
@@ -14,3 +14,16 @@ Usage:
  > Open web page: http://localhost:3344/?template=adapt-workshop&page=index
 
  That's all.
+
+Note, that it is possible to create a static website
+(as we use at http://adapt-workshop.org)
+
+Just go to script/compile-website-adapt-workshop
+and run on Linux:
+ > create_website.sh
+
+or on Windows:
+ > create_website.bat
+
+This will create static html pages in tmp-website sub-directory
+that you can upload to your web server.
