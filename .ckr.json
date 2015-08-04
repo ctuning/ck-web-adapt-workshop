@@ -1,11 +1,15 @@
 {
+  "data_name": "ck-web-adapt-workshop", 
+  "data_alias": "ck-web-adapt-workshop", 
   "data_uid": "e3f9da42311dbb44", 
-  "data_name": "ADAPT workshop website, powered by CK", 
+  "data_uoa": "ck-web-adapt-workshop", 
   "dict": {
+    "repo_deps": [
+      {
+        "repo_uoa": "ck-web"
+      }
+    ], 
     "url": "https://github.com/ctuning/ck-web-adapt-workshop", 
     "shared": "git"
-  }, 
-  "data_alias": "ck-web-adapt-workshop", 
-  "data_uoa": "ck-web-adapt-workshop",
-  "repo_deps":[{"repo_uoa":"ck-web"}]
+  }
 }
