@@ -1,7 +1,14 @@
 CK repository for ADAPT workshop website
 ========================================
 
-Includes CK web front-end templates, styles and images.
+Prerequisites
+=============
+* Collective Knowledge Framework: http://github.com/ctuning/ck
+
+Description
+===========
+
+CK web front-end templates, styles and images.
 
 Usage:
 
