@@ -13,10 +13,10 @@
 
      "nodes":[
        {"id":"index2016", "name":"Home", "link":"$#wfe_url_prefix_page#$index2016"},
-       {"id":"submission2016", "name":"Submission","link":"$#wfe_url_prefix_page#$submission2016"},
+       {"id":"program2016", "name":"Program","link":"$#wfe_url_prefix_page#$program2016"},
        {"id":"motivation2016", "name":"Motivation","link":"$#wfe_url_prefix_page#$motivation2016"},
        {"id":"committees2016", "name":"Committees","link":"$#wfe_url_prefix_page#$committees2016"},
-       {"id":"program2016", "name":"Program","link":"$#wfe_url_prefix_page#$program2016"},
+       {"id":"submission2016", "name":"Submission","link":"$#wfe_url_prefix_page#$submission2016"},
        {"id":"prior", "name":"Prior workshops","link":"$#wfe_url_prefix_page#$prior_workshops"}
      ]
    }
