@@ -2,6 +2,7 @@ CK repository for ADAPT workshop website
 ========================================
 
 [![compatibility](https://github.com/ctuning/ck-guide-images/blob/master/ck-compatible.svg)](https://github.com/ctuning/ck)
+[![DOI](https://zenodo.org/badge/39291424.svg)](https://zenodo.org/badge/latestdoi/39291424)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Prerequisites
